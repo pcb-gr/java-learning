@@ -2,6 +2,8 @@
 
 package example.collection;
 
+import example.parttern.singleton.SingletonEnum;
+
 public class EnumExam {
 
 	public enum WeekDay {
@@ -62,6 +64,10 @@ public class EnumExam {
 			System.out.println("EURO " + Currency.EURO);
 			
 			return "Coding";
+		}
+		
+		public static void main(String[] args) {
+			Timetable.getJob(EnumExam.WeekDay.MONDAY);
 		}
 	}
 
