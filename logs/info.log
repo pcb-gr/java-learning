@@ -1,0 +1,4 @@
+28 thg 3 2018 10:17:19,588 {main} INFO  example.logger.info.InfoLevel  - Example info message ..
+28 thg 3 2018 10:17:19,591 {main} WARN  example.logger.info.InfoLevel  - Example warn message ..
+28 thg 3 2018 10:17:19,591 {main} ERROR example.logger.info.InfoLevel  - Example error message ..
+28 thg 3 2018 10:17:19,591 {main} FATAL example.logger.info.InfoLevel  - Example fatal message ..

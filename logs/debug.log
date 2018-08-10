@@ -1,0 +1,9 @@
+28 thg 3 2018 10:12:04,680 {main} DEBUG example.logger.debug.DebugLevel  - Example debug message ..
+28 thg 3 2018 10:12:04,737 {main} INFO  example.logger.debug.DebugLevel  - Example info message ..
+28 thg 3 2018 10:12:04,737 {main} WARN  example.logger.debug.DebugLevel  - Example warn message ..
+28 thg 3 2018 10:12:04,737 {main} ERROR example.logger.debug.DebugLevel  - Example error message ..
+28 thg 3 2018 10:12:04,737 {main} FATAL example.logger.debug.DebugLevel  - Example fatal message ..
+28 thg 3 2018 10:12:04,738 {main} FATAL example.logger.debug.DebugLevel  - <Some Object>
+java.lang.Exception: Test Exception
+	at example.logger.debug.DebugLevel.raiseException(DebugLevel.java:25)
+	at example.logger.debug.DebugLevel.main(DebugLevel.java:18)

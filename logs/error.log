@@ -1,0 +1,2 @@
+28 thg 3 2018 10:16:47,292 {main} ERROR example.logger.error.ErrorLevel  - Example error message ..
+28 thg 3 2018 10:16:47,294 {main} FATAL example.logger.error.ErrorLevel  - Example fatal message ..

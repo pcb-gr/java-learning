@@ -1,0 +1,3 @@
+28 thg 3 2018 10:22:33,087 {main} WARN  example.logger.warn.WarnLevel  - Example warn message ..
+28 thg 3 2018 10:22:33,089 {main} ERROR example.logger.warn.WarnLevel  - Example error message ..
+28 thg 3 2018 10:22:33,090 {main} FATAL example.logger.warn.WarnLevel  - Example fatal message ..
