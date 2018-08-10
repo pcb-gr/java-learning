@@ -2,8 +2,6 @@
 
 package example.collection;
 
-import example.parttern.singleton.SingletonEnum;
-
 public class EnumExam {
 
 	public enum WeekDay {

@@ -1,4 +1,6 @@
 eclipse.preferences.version=1
 encoding//src/example/collection/EnumExam.java=UTF-8
 encoding//src/example/exception/MainCheckedAndUncheckedException.java=UTF-8
-encoding//src/example/parttern/singleton/SingletonSimple.java=UTF-8
+encoding//src/example/parttern/creational/prototype/TestPrototype.java=UTF-8
+encoding//src/example/parttern/structural/composite/TestComposite.java=UTF-8
+encoding/<project>=UTF-8
